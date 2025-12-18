@@ -57,4 +57,4 @@ The project provides two high-value outputs:
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
 * **Libraries:** Pandas, Scikit-Learn, NumPy, Matplotlib, Seaborn
-* **Environment:** Google Colab / Jupyter Notebook
+* **Environment:** Google Colab
